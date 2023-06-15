@@ -1,0 +1,20 @@
+Hi There,
+
+Glad you remembered me.
+
+This is the list of experiments for SMA
+Each practical is in a seperate folder with all the code and necessary files.
+inside each folder there is a file named instruction.txt containing all the required info
+
+Exp 1:Brand Analysis using Various Tools.
+Exp 2:Youtube Extraction and Sentiment Analysis
+Exp 3:Data Cleaning and Storage
+Exp 4:Exploratory Data Analysis and visualization using PowerBI
+Exp 5:Trend, sentiment/opinion analysis
+Exp 6:Network Analysis
+Exp 7:Read time Dashboard using PowerBI and Twitter
+Exp 8:Design Social Media Poster.
+Exp 9:Competitor Analysis using Brand24 and SimilarWeb.
+Exp 10: Google Review Sentiment Analysis.
+
+Best of Luck !!!

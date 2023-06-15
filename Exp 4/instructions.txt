@@ -1,0 +1,10 @@
+Exp 4:Exploratory Data Analysis and visualization using PowerBI
+Paste the folder in the PC
+
+Open the expt4.pbix file by double clicking
+
+Import data
+
+Add Widgets as necessary
+
+All the Best For Your Vivas!!!!!
